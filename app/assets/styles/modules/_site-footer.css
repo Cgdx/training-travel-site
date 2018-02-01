@@ -4,7 +4,7 @@
   padding: .5rem 0;
   text-align: center;
 
-  &__text{
+  &__text {
     display: block;
     margin-bottom: 1rem;
     font-weight: 200;
